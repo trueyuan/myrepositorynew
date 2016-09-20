@@ -1,0 +1,2 @@
+# myrepositorynew
+just for learning
